@@ -2,7 +2,7 @@
 
 **UNIPÊ** · Tópicos Avançados em Banco de Dados / Arquitetura de Software
 **Professor:** Me. Ricardo Roberto de Lima
-**Integrantes:** _______________________ · _______________________ · _______________________
+**Integrantes:** Vitor Jales Ramos Diniz e João Gabriel Lacerda
 
 ## Sobre o projeto
 
